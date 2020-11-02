@@ -1,7 +1,9 @@
 # TabNavigation
 Simple tab navigation in android
 
-Recycle view and toast
+Tab Navigation, Recycle view and toast
+
+
 <img src="images/1.png" width="500">
 
 add new data
